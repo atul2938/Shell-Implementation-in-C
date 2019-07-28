@@ -1,5 +1,7 @@
 # Shell-Implementation-in-C
-A basic shell program which reads the user input from stdin, parses the input to interpret IO redirections and pipes and execute them. After executing a command, it again waits for user input until the user enters the exit command. It is able to handle nested commands. Below is the list of features implemented : 
+A basic shell program which reads the user input from stdin, parses the input to interpret IO redirections and pipes and execute them. After executing a command, it again waits for user input until the user enters the exit command. It is able to handle nested commands. 
+Example : **ls -l | wc  > out.txt** <br/>
+Below is the list of features implemented : 
 
 | Syntax  | Meaning |
 | - | - |
