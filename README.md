@@ -14,3 +14,5 @@ A basic shell program which reads the user input from stdin, parses the input to
 | exit  | exit from the shell program  |
 
 On **ctrl+c (SIGINT)**, the program should kill the currently executing process (if any), and start waiting for an input command.
+
+Contributers :  Atul Anand, Dashmesh Singh, Kanupriya Singh
